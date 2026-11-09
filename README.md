@@ -9,7 +9,7 @@ I am a 3rd-year Computer Systems and Network Engineering student at **SLIIT** (S
 - 💬 Ask me about: Networking basics, C programming, or Linux
 
 ### 🛠️ Tech Stack & Tools
-*   **Languages:** C, Python, Java (add any others you know)
+*   **Languages:** C, Python, Java
 *   **Networking:** Cisco Packet Tracer, Wireshark
 *   **Operating Systems:** Linux (Ubuntu), Windows
 *   **Tools:** Git, VS Code
